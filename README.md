@@ -8,7 +8,7 @@
     <strong style="font-size: 1em;">Tagline:</strong> QuickReport Heritage.
   </div>
   <div>
-    <img src="https://www.protee.org/images/wqr_Quickreport/wqr_Quickreport.png" alt="wqr_Quickreport Logo" width="60" style="border-radius: 12px;">
+    <img src="https://www.protee.org/images/wqr_QuickReport/wqr_QuickReport.png" alt="wqr_QuickReport Logo" width="120" style="border-radius: 12px;">
   </div>
 </div>
 
@@ -44,7 +44,8 @@ wqr_Quickreport is a modern fork of the original 4D QuickReport, specifically en
 - **4D v21** or higher (Project mode recommended).
 - [**wok_Krolific**](https://github.com/protee/wok_Krolific) – Licensing component (mandatory dependency).
 - [**wox_Xlibrary**](https://github.com/protee/wox_Xlibrary) – Core utilities (mandatory dependency).
-- The [**4D SVG component**](https://github.com/4d/4D-SVG) must be available in your project.
+- [**woc_Colours**](https://github.com/protee/woc_Colours) – Color management engine (mandatory dependency).
+- [**waz_Wazar**](https://github.com/protee/waz_Wazar) – UI widgets (mandatory dependency).
 
 ### Installation via Dependencies Manager (GitHub)
 
@@ -69,23 +70,16 @@ Starting with 4D v21, the recommended way to install wqr_Quickreport (and any og
 
 ---
 
-## Part of the ogTools Suite
+## ogTools Suite – Dependencies
 
-wqr_Quickreport is the reporting pillar of the comprehensive **ogTools suite** – an integrated development ecosystem for 4D. Other key components include:
+wqr_Quickreport is the reporting pillar of the comprehensive **ogTools suite** – an integrated development ecosystem for 4D. Dependencies:
 
-| Component | Description |
-|-----------|-------------|
-| **wok_Krolific** | Centralized licensing system. |
-| **wox_Xlibrary** | Core utilities for everyday development tasks. |
-| **zen_Nucleus** | The complete ORDA framework binding your database to a sophisticated UI. |
-| **woc_Colours** | Advanced, indexed color management engine. |
-| **waz_Wazar** | Intelligent UI widgets for modern interfaces. |
-| **wor_Recursive** | Manage hierarchical data with ease. |
-| **wob_Boxes** | Secure, Dropbox-like file repository. |
-| **wod_DevTools** | Instant documentation generation. |
-| **wom_Make** | Build and automation toolkit. |
-
-> Together, these components form a powerful framework that allows developers to focus on unique business logic rather than reinventing the wheel.
+| Icon | Component | Description |
+|------|-----------|-------------|
+| <img src="https://www.protee.org/images/wok_Krolific/wok_Krolific.png" alt="wok_Krolific Logo" width="60" style="border-radius: 12px;"> | **wok_Krolific** | License manager. |
+| <img src="https://www.protee.org/images/wox_Xlibrary/wox_Xlibrary.png" alt="wox_Xlibrary Logo" width="60" style="border-radius: 12px;"> | **wox_Xlibrary** | Core utilities for everyday development tasks. |
+| <img src="https://www.protee.org/images/woc_Colours/woc_Colours.png" alt="woc_Colours Logo" width="60" style="border-radius: 12px;"> | **woc_Colours** | Advanced, indexed color management engine. |
+| <img src="https://www.protee.org/images/waz_Wazar/waz_Wazar.png" alt="waz_Wazar Logo" width="60" style="border-radius: 12px;"> | **waz_Wazar** | Intelligent UI widgets for modern interfaces. |
 
 ---
 
@@ -99,10 +93,8 @@ wqr_Quickreport is a **commercial component** and is part of the paid ogTools su
 
 wqr_Quickreport supports the following languages out‑of‑the‑box:
 
-- 🇺🇸 English (EN)
-- 🇫🇷 French (FR)
-- 🇪🇸 Spanish (ES)
-- 🇩🇪 German (DE)
+- 🇺🇸 English (EN), 🇫🇷 French (FR), 🇪🇸 Spanish (ES), 🇩🇪 German (DE)
+- More on demand
 
 Localization affects error messages, UI prompts, and built‑in pane texts.
 
@@ -121,7 +113,7 @@ For direct inquiries:
 
 ## About the Creator
 
-wqr_Quickreport and the ogTools suite are developed by **Protée sarl**, a company with over 30 years of expertise in 4D development. Led by Olivier Grimbert, the team focuses on delivering high‑quality, production‑grade tools that enhance developer productivity and application reliability.
+wqr_Quickreport and the ogToolsSuite are developed by **Protée sarl**, a company with over 30 years of expertise in 4D development. Led by Olivier Grimbert, the team focuses on delivering high‑quality, production‑grade tools that enhance developer productivity and application reliability.
 
 ---
 
