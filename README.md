@@ -30,10 +30,10 @@ wqr_Quickreport is a modern fork of the original 4D QuickReport, specifically en
 
 ## Key Features
 
-- **ORDA‑Like Interface**: Provides methods and a workflow designed for the ORDA model, allowing you to pass an Entity Selection directly for reporting[reference:0].
-- **Backward Compatibility**: Internally, the Entity Selection is efficiently converted to a classic selection, ensuring full compatibility with the underlying 4D QuickReport engine[reference:1].
-- **Enhanced User Interface**: Includes various UI improvements over the original for a more modern and user‑friendly experience[reference:2].
-- **Maintenance & Stability**: Incorporates essential bug fixes from the original codebase for increased reliability[reference:3].
+- **ORDA‑Like Interface**: Provides methods and a workflow designed for the ORDA model, allowing you to pass an Entity Selection directly for reporting.
+- **Backward Compatibility**: Internally, the Entity Selection is efficiently converted to a classic selection, ensuring full compatibility with the underlying 4D QuickReport engine.
+- **Enhanced User Interface**: Includes various UI improvements over the original for a more modern and user‑friendly experience.
+- **Maintenance & Stability**: Incorporates essential bug fixes from the original codebase for increased reliability.
 - **Multi‑Language Support**: Fully localized in **English (EN)**, **French (FR)**, **Spanish (ES)**, and **German (DE)**.
 
 ---
